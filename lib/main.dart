@@ -8,7 +8,7 @@ void main() async {
   // Ensure Flutter is initialized
   WidgetsFlutterBinding.ensureInitialized();
 
-  // Initialize services
+  // Initialize services 
   await _initializeServices();
 
   runApp(const MyApp());
