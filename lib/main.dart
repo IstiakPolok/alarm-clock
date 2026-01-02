@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 import 'services/notification_service.dart';
 import 'services/alarm_scheduler.dart';
 import 'views/alarm_list_screen.dart';
- 
+  
 void main() async {
   // Ensure Flutter is initialized
   WidgetsFlutterBinding.ensureInitialized();
